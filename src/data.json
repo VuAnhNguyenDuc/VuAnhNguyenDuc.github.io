@@ -1,6 +1,6 @@
 {
   "name": "Nguyen Duc Vu Anh",
-  "position": "Software Engineer at <a href='https://www.nab.com.au/'>NAB</a>",
+  "position": "Senior Software Engineer at <a href='https://www.equinix.sg/'>Equinix Singapore</a>",
   "download_file": "https://drive.google.com/file/d/1cWcfB7aE9PuDvOwZnqvo5EFs1UIpFuLG/view?usp=sharing",
   "carousel": {
     "items": [
@@ -22,7 +22,7 @@
     "title": "ABOUT ME",
     "image": "https://res.cloudinary.com/he9vfmd3s/image/upload/v1650336137/vuanh-portfolio/about.jpg",
     "subtitle": "WHO AM I?",
-    "content": "<p><strong>Hey there! My name is Nguyen Duc Vu Anh</strong>, a software engineer currently working at the <a href='https://www.nab.com.au/'>National Bank of Australia</a>. I've always been drawn to the excitement of solving complex problems and awesome coding projects. My skills are broad: from front-end design to back-end development. I enjoy each aspect, and love building websites & mobile apps from start to finish, for clients all over the world.</p><p>I'm available for remote and freelancing work - if you would like to build something together, <a href='#contact-section'>get in touch</a>?</p>",
+    "content": "<p><strong>Hey there! My name is Nguyen Duc Vu Anh</strong>, a software engineer currently working at <a href='https://www.equinix.sg/'>Equinix Singapore</a>. I've always been drawn to the excitement of solving complex problems and awesome coding projects. My skills are broad: from front-end design to back-end development. I enjoy each aspect, and love building websites & mobile apps from start to finish, for clients all over the world.</p><p>I'm available for remote and freelancing work - if you would like to build something together, <a href='#contact-section'>get in touch</a>?</p>",
     "specialties": [
       {
         "title": "Front-end",
@@ -72,7 +72,7 @@
       },
       {
         "title": "Projects",
-        "value": 5
+        "value": 6
       },
       {
         "title": "Clients",
@@ -80,7 +80,7 @@
       },
       {
         "title": "Companies",
-        "value": 4
+        "value": 5
       }
     ]
   },
@@ -278,6 +278,27 @@
         ],
         "fade_in": "fadeInRight",
         "image": "https://res.cloudinary.com/he9vfmd3s/image/upload/v1650336135/vuanh-portfolio/nab.png"
+      },
+      {
+        "title": "Equinix - Customer Resource Hierarchy",
+        "duration": "07/2021 - Present",
+        "description": "Back-end system that serves as a portal for customers to manage their resources.",
+        "website": "",
+        "team_size": 15,
+        "position": "Senior Software Engineer",
+        "responsibilities": [
+          "My main tasks include maintaining and implementing new features for the company's customer portal."
+        ],
+        "technologies": [
+          "Spring Boot",
+          "Amazon Web Services",
+          "PostgresQL",
+          "Uber Cadence",
+          "Rabbit MQ",
+          "Kafka"
+        ],
+        "fade_in": "fadeInRight",
+        "image": "https://res.cloudinary.com/he9vfmd3s/image/upload/v1652459654/vuanh-portfolio/equinix.png"
       }
     ]
   },
