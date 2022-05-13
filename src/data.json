@@ -185,10 +185,17 @@
       },
       {
         "title": "Software Engineer at <a href='https://www.nab.com.au/' target='_blank' rel='noopener noreferrer'>NAB</a>",
-        "period": "July 2021 - Present",
+        "period": "July 2021 - May 2022",
         "fade_in": "fadeInLeft",
         "icon": "icon-pen2",
         "content": "<a href='https://www.nab.com.au/' target='_blank' rel='noopener noreferrer'>NAB</a> is one of the four largest financial institutions in Australia (colloquially referred to as 'The Big Four') in terms of market capitalisation, earnings and customers. At this bank, I am the key member of a brand new team that works entirely on Java Spring Boot and AWS. The product involves managing the personal card of the bank's clients (credit card, debit, etc..)"
+      },
+      {
+        "title": "Senior Software Engineer at <a href='https://www.equinix.sg/' target='_blank' rel='noopener noreferrer'>Equinix Singapore</a>",
+        "period": "May 2022 - Present",
+        "fade_in": "fadeInLeft",
+        "icon": "icon-pen2",
+        "content": "Equinix, Inc. is an American multinational company headquartered in Redwood City, California, that specializes in Internet connection and data centers. The company is a leader in global colocation data center market share."
       }
     ]
   },
