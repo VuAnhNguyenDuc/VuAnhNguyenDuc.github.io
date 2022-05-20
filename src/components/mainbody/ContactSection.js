@@ -68,6 +68,26 @@ export default class ContactSection extends Component {
                 data-animate-effect="fadeInLeft"
               >
                 <div className="colorlib-icon">
+                  <i className="icon-whatsapp" />
+                </div>
+                <div className="colorlib-text">
+                  <p>
+                    <a
+                      href={`https://wa.me/${contact.whatsapp}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      {contact.whatsapp}
+                    </a>
+                  </p>
+                </div>
+              </div>
+
+              <div
+                className="colorlib-feature colorlib-feature-sm animate-box"
+                data-animate-effect="fadeInLeft"
+              >
+                <div className="colorlib-icon">
                   <i className="icon-linkedin2" />
                 </div>
                 <div className="colorlib-text">
