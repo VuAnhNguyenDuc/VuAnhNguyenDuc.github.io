@@ -4,5 +4,5 @@ npm install
 To start the project locally, run:
 npm start
 
-To update new changes, please run this command line (make sure the code has been merged to main):
+To update new changes (and deploy to the web), please run this command line (make sure the code has been merged to main):
 npm run deploy
