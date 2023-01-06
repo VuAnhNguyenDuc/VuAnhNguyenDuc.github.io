@@ -86,6 +86,15 @@ class ProjectInfo extends Component {
             </ul>
             <p>
               {" "}
+              <strong>Accomplishments:</strong>{" "}
+            </p>
+            <ul>
+              {this.props.data.accomplishments.map((item, index) => (
+                <li key={item}>{item}</li>
+              ))}
+            </ul>
+            <p>
+              {" "}
               <strong>Technologies Used:</strong>{" "}
             </p>
             <ul>

@@ -1,6 +1,6 @@
 {
   "name": "Nguyen Duc Vu Anh",
-  "position": "Senior Software Engineer at <a href='https://www.equinix.sg/'>Equinix Singapore</a>",
+  "position": "Senior Software Engineer at <a href='https://www.helius-tech.com/'>Helius Technology</a>",
   "download_file": "https://drive.google.com/file/d/1cWcfB7aE9PuDvOwZnqvo5EFs1UIpFuLG/view?usp=sharing",
   "carousel": {
     "items": [
@@ -22,7 +22,7 @@
     "title": "ABOUT ME",
     "image": "https://res.cloudinary.com/he9vfmd3s/image/upload/v1650336137/vuanh-portfolio/about.jpg",
     "subtitle": "WHO AM I?",
-    "content": "<p><strong>Hey there! My name is Nguyen Duc Vu Anh</strong>, a software engineer currently working at <a href='https://www.equinix.sg/'>Equinix Singapore</a>. I've always been drawn to the excitement of solving complex problems and awesome coding projects. My skills are broad: from front-end design to back-end development. I enjoy each aspect, and love building websites & mobile apps from start to finish, for clients all over the world.</p><p>I'm available for remote and freelancing work - if you would like to build something together, <a href='#contact-section'>get in touch</a>?</p>",
+    "content": "<p><strong>Hey there! My name is Nguyen Duc Vu Anh</strong>, a software engineer currently working at <a href='https://www.helius-tech.com/'>Helius Technology Singapore</a>. I've always been drawn to the excitement of solving complex problems and awesome coding projects. My skills are broad: from front-end design to back-end development. I enjoy each aspect, and love building websites & mobile apps from start to finish, for clients all over the world.</p><p>I'm available for remote and freelancing work - if you would like to build something together, <a href='#contact-section'>get in touch</a>?</p>",
     "specialties": [
       {
         "title": "Front-end",
@@ -68,7 +68,7 @@
     "items": [
       {
         "title": "Years of Exp",
-        "value": 5
+        "value": 6
       },
       {
         "title": "Projects",
@@ -89,15 +89,15 @@
     "subtitle": "My Skills",
     "content": "I have been working on various technologies, including back-end and front-end development, but I primarily work with Java and JavaScript. The following bar chart illustrates my years of experience.",
     "labels": [
-      "Java",
+      "Java Spring Boot",
       "ReactJS",
-      "Database",
+      "Database (PostgreSQL)",
       "AWS"
     ],
     "datasets": [
       {
         "label": "Years of experience",
-        "data": [5, 2, 5, 3],
+        "data": [6, 2, 6, 3],
         "backgroundColor": ["#FF6384", "#36A2EB", "#FFCE56", "#46BFBD"],
         "hoverBackgroundColor": ["#FF6384", "#36A2EB", "#FFCE56", "#46BFBD"]
       }
@@ -174,28 +174,28 @@
         "period": "June 2017 - July 2019",
         "fade_in": "fadeInRight",
         "icon": "icon-pen2",
-        "content": "This is the first company I worked at as a full-time employee. During the two years of working here, I had the opportunity to work on multi-million dollar projects. I was responsible for optimizing the application to meet the demands of my clients. From this company, I learned lots of new technologies, communicating and soft skills, knowing where I am and my goals for the future."
+        "content": "This is the first company I worked at as a full-time employee. During the two years of working here, I had the opportunity to work on multi-million dollar projects. I was responsible for optimizing the application to meet the demands of my clients. I learned new technologies from this company, how to communicate professionally, and soft skills."
       },
       {
         "title": "Software Engineer at <a href='https://www.kms-technology.com/' target='_blank' rel='noopener noreferrer'>KMS Technology</a>",
         "period": "August 2019 - June 2021",
         "fade_in": "fadeInLeft",
         "icon": "icon-pen2",
-        "content": "<a href='https://www.kms-technology.com/' target='_blank' rel='noopener noreferrer'>KMS Technology</a> is one of the leading software company in Vietnam. At this company, my team and I implemented an entire car insurance infrastructure from scratch and deployed it to AWS, with me taking responsibility for writing key features and presenting the work to Onshore Clients in the US. I also managed a small team (4 members) that contributed significantly to the project."
+        "content": "<a href='https://www.kms-technology.com/' target='_blank' rel='noopener noreferrer'>KMS Technology</a> is one of the leading software companies in Vietnam. At this company, my team and I implemented an entire car insurance infrastructure from scratch. We deployed it to AWS, with me responsible for writing key features and presenting the work to Onshore Clients in the US. I also managed a small team (4 members) that contributed significantly to the grand team."
       },
       {
         "title": "Software Engineer at <a href='https://www.nab.com.au/' target='_blank' rel='noopener noreferrer'>NAB</a>",
         "period": "July 2021 - May 2022",
         "fade_in": "fadeInLeft",
         "icon": "icon-pen2",
-        "content": "<a href='https://www.nab.com.au/' target='_blank' rel='noopener noreferrer'>NAB</a> is one of the four largest financial institutions in Australia (colloquially referred to as 'The Big Four') in terms of market capitalisation, earnings and customers. At this bank, I am the key member of a brand new team that works entirely on Java Spring Boot and AWS. The product involves managing the personal card of the bank's clients (credit card, debit, etc..)"
+        "content": "Regarding market capitalization, earnings and customers, <a href='https://www.nab.com.au/' target='_blank' rel='noopener noreferrer'>NAB</a> is one of Australia's four most prominent financial institutions (colloquially referred to as 'The Big Four'). At this bank, I am one of the key members of a brand-new team that works entirely on Java Spring Boot and AWS. The product involves managing the personal card of the bank's clients (credit card, debit, etc)"
       },
       {
-        "title": "Senior Software Engineer at <a href='https://www.equinix.sg/' target='_blank' rel='noopener noreferrer'>Equinix Singapore</a>",
+        "title": "Senior Software Engineer (Contractor of Helius) at <a href='https://www.equinix.sg/' target='_blank' rel='noopener noreferrer'>Equinix Singapore</a>",
         "period": "May 2022 - Present",
         "fade_in": "fadeInLeft",
         "icon": "icon-pen2",
-        "content": "Equinix, Inc. is an American multinational company headquartered in Redwood City, California, that specializes in Internet connection and data centers. The company is a leader in global colocation data center market share."
+        "content": "Equinix is an American multinational company headquartered in Redwood City, California, specializing in Internet connection and data centers. The company is a leader in global colocation data center market share. At this corporate, I maintain and develop new features, fix security concerns, and resolve production issues as the Support Champion."
       }
     ]
   },
@@ -211,9 +211,12 @@
         "team_size": 10,
         "position": "Full Stack Developer",
         "responsibilities": [
-          "This was the first project in my professional career as a programmer. At the time of working, I was a 3rd-year student. My primary responsibilities were observing and learning from other seniors, getting familiar with the processes of an actual project, and implementing simple features. The project helped me understand what is expected from a good programmer and what I must learn and improve before sailing to the ocean."
+          "This was the first project in my professional career as a programmer. At the time of working, I was a 3rd-year student. My primary responsibilities were observing and learning from otherseniors, getting familiar with an actual project's processes, and implementing simple features.The project helped me understand what is expected from a good programmer and what I must learn and improve before sailing to the ocean."
         ],
-        "technologies": ["Spring Boot", "Hibernate", "MongoDB", "ReactJS"],
+        "accomplishments": [
+          "Gained basic knowledge of what is expected of a software engineer."
+        ],
+        "technologies": ["JavaEE", "Hibernate", "Maven"],
         "fade_in": "fadeInLeft",
         "image": "https://res.cloudinary.com/he9vfmd3s/image/upload/v1650336149/vuanh-portfolio/smartedunow.png"
       },
@@ -225,7 +228,10 @@
         "team_size": 35,
         "position": "Backend Developer",
         "responsibilities": [
-          "I was tasked to implement easy to intermediate features such as simple APIs or straightforward business logic in this project. During my time working on the project, my coding skills were greatly improved thanks to my former team leader's guidance, who helped review and optimize my work."
+          "I was tasked to implement easy to intermediate features such as simple APIs or straightforward business logic in this project. During my time working on the project, my coding skills were greatly improved thanks to my former Team Leader's guidance, who helped review and optimize my work."
+        ],
+        "accomplishments": [
+          "Gained basic knowledge on how to write software professionally (how to properly structure the project, write unit tests, and present ideas and solutions to the team leader)."
         ],
         "technologies": ["Adobe Experience Manager", "MySQL"],
         "fade_in": "fadeInLeft",
@@ -240,7 +246,10 @@
         "team_size": 40,
         "position": "Backend Developer",
         "responsibilities": [
-          "My responsibility includes developing many important features in this project. I was also responsible for presenting the team's accomplishments to the client throughout each Sprint cycle. Thanks to all of that, I was able to earn the trust of my manager and team leaders, which eventually got me promoted to Java Team Leader."
+          "In this project, I was tasked to develop many essential features. I was also responsible for presenting the team's accomplishments to the client throughout each Sprint cycle. Thanks to that, I earned the trust of my manager and team leaders, eventually getting me promoted to Java Team Leader."
+        ],
+        "accomplishments": [
+          "Got promoted to Java Team Leader"
         ],
         "technologies": [
           "Spring Boot",
@@ -258,11 +267,15 @@
         "team_size": 15,
         "position": "Backend and Devops Engineer",
         "responsibilities": [
-          "My main tasks include developing and taking responsibility for crucial infrastructure features (business logic, authentication/authorization) and using Terraform/Terragrunt to deploy them to AWS. I am also tasked to manage a sub-team of members to deliver specifically assigned business logic and present the work to US clients when required."
+          "My main tasks include developing and taking responsibility for crucial infrastructure features (business logic, authentication/authorization, etc.) and using Terraform/Terragrunt to deploy them to AWS. I was also tasked to manage a sub-team of members to deliver specifically assigned business logic and present the work to US clients when required."
+        ],
+        "accomplishments": [
+          "After the AWS instances were up and running, it managed to handle 20 million customer data within 8 hours, which was many times better than the existing infrastructure (decommissioned).",
+          "I managed to convince my manager to allow me to lead a small team (4 members), which performed many successful production deployments."
         ],
         "technologies": [
-          "Spring Boot",
-          "Amazon Web Services",
+          "Spring Boot (Java 11)",
+          "Amazon Web Services (S3, SQS, DynamoDB, SNS, EC2, Fargate, Parameter Store, ECR)",
           "MySQL"
         ],
         "fade_in": "fadeInRight",
@@ -276,11 +289,15 @@
         "team_size": 10,
         "position": "Backend and Devops Engineer",
         "responsibilities": [
-          "My main tasks include developing and taking responsibility for critical infrastructure features (business logic, authentication/authorization) and cooperating with DevOps to deploy them to AWS."
+          "My main tasks include developing and taking responsibility for crucial infrastructure features (business logic, authentication/authorization, etc.) and cooperating with DevOps to deploy them to AWS."
+        ],
+        "accomplishments": [
+          "I took the lead in implementing the new versions (V2) of many of NAB's existing APIs. For each new implementation, I used the optimized features of Java 8 and 11 (like Stream APIs, Function Interfaces, and Completable Futures).",
+          "I also made sure all the V2 APIs have better performance compared to the existing versions (V1) by generating performance reports with <a href='https://gatling.io/' target='_blank' rel='noopener noreferrer'>Gatling</a>"
         ],
         "technologies": [
-          "Spring Boot",
-          "Amazon Web Services",
+          "Spring Boot (Java 11)",
+          "Amazon Web Services (S3, SQS, RDS)",
           "MySQL"
         ],
         "fade_in": "fadeInRight",
@@ -294,15 +311,17 @@
         "team_size": 15,
         "position": "Senior Software Engineer",
         "responsibilities": [
-          "My main tasks include maintaining and implementing new features for the company's customer portal."
+          "My main tasks include developing and taking responsibility for crucial infrastructure features and working directly with Singapore colleagues. I also took on leading duties in fixing the security concerns of the services."
+        ],
+        "accomplishments": [
+          "I took the lead in fixing the security concerns of the services (including insecure 3rd party dependencies and public APIs exposing sensitive content, and properly sanitized the input data before processing).",
+          "I helped increase the overall unit test coverage of all the services to at least 81%.",
+          "As a Support Champion, I've successfully resolved many production issues (especially P1) and extracted production instances' availability reports daily."
         ],
         "technologies": [
-          "Spring Boot",
-          "Amazon Web Services",
+          "Spring Boot (Java 11)",
           "PostgresQL",
-          "Uber Cadence",
-          "Rabbit MQ",
-          "Kafka"
+          "Rabbit MQ"
         ],
         "fade_in": "fadeInRight",
         "image": "https://res.cloudinary.com/he9vfmd3s/image/upload/v1652459654/vuanh-portfolio/equinix.png"
