@@ -892,6 +892,27 @@ body.offcanvas .colorlib-nav-toggle {
 .services .desc {
   margin-top: 60px;
 }
+@media screen and (min-width: 992px) and (max-width: 1036px) {
+  .services .desc {
+    height: 350px;
+  }
+}
+@media screen and (min-width: 1036px) and (max-width: 1100px) {
+  .services .desc {
+    height: 300px;
+  }
+}
+@media screen and (min-width: 1100px) and (max-width: 1172px) {
+  .services .desc {
+    height: 270px;
+  }
+}
+@media screen and (min-width: 1172px) and (max-width: 1906px) {
+  .services .desc {
+    height: 230px;
+  }
+}
+
 .services .desc h3 {
   font-size: 16px;
   font-weight: 700;
