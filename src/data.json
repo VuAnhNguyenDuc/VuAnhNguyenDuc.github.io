@@ -1,28 +1,22 @@
 {
   "name": "Nguyen Duc Vu Anh",
-  "position": "Senior Software Engineer at <a href='https://www.helius-tech.com/'>Helius Technology</a>",
+  "position": "Software Engineer at <a href='https://www.equinix.sg/'>Equinix Singapore</a>",
   "download_file": "https://drive.google.com/file/d/1cWcfB7aE9PuDvOwZnqvo5EFs1UIpFuLG/view?usp=sharing",
   "carousel": {
     "items": [
       {
         "title": "Hi! I'm Vu Anh!",
-        "image": "https://res.cloudinary.com/he9vfmd3s/image/upload/v1650336138/vuanh-portfolio/img_bg_1.jpg",
+        "image": "https://res.cloudinary.com/he9vfmd3s/image/upload/v1694239290/vuanh-portfolio/img_bg_4.jpg",
         "color": "black",
         "content": "A passionate, talented software engineer."
-      },
-      {
-        "title": "Welcome To My Page!",
-        "image": "https://res.cloudinary.com/he9vfmd3s/image/upload/v1650336139/vuanh-portfolio/img_bg_22.jpg",
-        "color": "white",
-        "content": "Feel free to take a look at my latest projects."
       }
     ]
   },
   "about": {
     "title": "ABOUT ME",
-    "image": "https://res.cloudinary.com/he9vfmd3s/image/upload/v1650336137/vuanh-portfolio/about.jpg",
+    "image": "https://res.cloudinary.com/he9vfmd3s/image/upload/v1694238689/vuanh-portfolio/navbar_avatar.jpg",
     "subtitle": "WHO AM I?",
-    "content": "<p><strong>Hey there! My name is Nguyen Duc Vu Anh</strong>, a software engineer currently working at <a href='https://www.helius-tech.com/'>Helius Technology Singapore</a>. I've always been drawn to the excitement of solving complex problems and awesome coding projects. My skills are broad: from front-end design to back-end development. I enjoy each aspect, and love building websites & mobile apps from start to finish, for clients all over the world.</p><p>I'm available for remote and freelancing work - if you would like to build something together, <a href='#contact-section'>get in touch</a>?</p>",
+    "content": "<p><strong>Hey there! My name is Nguyen Duc Vu Anh</strong>, a software engineer currently working at <a href='https://www.equinix.sg/' target='_blank' rel='noopener noreferrer'>Equinix Singapore</a>. I've always been drawn to the excitement of solving complex problems and awesome coding projects. My skills are broad: from front-end design to back-end development. I enjoy each aspect, and love building websites & mobile apps from start to finish, for clients all over the world.</p><p>I'm available for remote and freelancing work - if you would like to build something together, <a href='#contact-section'>get in touch</a>?</p>",
     "specialties": [
       {
         "title": "Front-end",
@@ -192,10 +186,17 @@
       },
       {
         "title": "Senior Software Engineer (Contractor of Helius) at <a href='https://www.equinix.sg/' target='_blank' rel='noopener noreferrer'>Equinix Singapore</a>",
-        "period": "May 2022 - Present",
+        "period": "May 2022 - August 2023",
         "fade_in": "fadeInLeft",
         "icon": "icon-pen2",
         "content": "Equinix is an American multinational company headquartered in Redwood City, California, specializing in Internet connection and data centers. The company is a leader in global colocation data center market share. At this corporate, I maintain and develop new features, fix security concerns, and resolve production issues as the Support Champion."
+      },
+      {
+        "title": "Senior Associate Engineer at <a href='https://www.equinix.sg/' target='_blank' rel='noopener noreferrer'>Equinix Singapore</a>",
+        "period": "August 2023 - Present",
+        "fade_in": "fadeInLeft",
+        "icon": "icon-pen2",
+        "content": "After getting converted, I continue working for Equinix as a full time employee."
       }
     ]
   },

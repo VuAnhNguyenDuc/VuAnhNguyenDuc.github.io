@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import path from "path";
 import data from "../../data.json";
 
 const counter = data.counter;

@@ -48,8 +48,8 @@ export default class AboutSection extends Component {
                 >
                   <div className="hire">
                     <h2>{about.quote}</h2>
-                    <a href="#contact-section" className="btn-hire">
-                      Hire me
+                    <a href={data.download_file} className="btn-hire" target="_blank" rel="noopener noreferrer">
+                      VIEW CV
                     </a>
                   </div>
                 </div>

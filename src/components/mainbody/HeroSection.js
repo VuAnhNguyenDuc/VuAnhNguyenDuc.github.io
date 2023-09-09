@@ -41,7 +41,7 @@ class HeroSection extends Component {
                         className="slider-text-inner js-fullheight"
                         style={{ height: "257px" }}
                       >
-                        <div className="desc">
+                        <div className="desc md-hidden">
                           <h1 className={`color-${item.color}`}>{item.title}</h1>
                           <h2 className={`color-${item.color}`}>{item.content}</h2>
                           <p>
@@ -49,6 +49,7 @@ class HeroSection extends Component {
                               href={data.download_file}
                               className={`btn btn-primary btn-learn-${item.color}`}
                               target="_blank"
+                              rel="noopener noreferrer"
                             >
                               Download CV <i className="icon-download4" />
                             </a>
