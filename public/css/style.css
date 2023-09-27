@@ -706,6 +706,18 @@ body.offcanvas .colorlib-nav-toggle {
 .timeline-centered
   .timeline-entry
   .timeline-entry-inner
+  .timeline-icon.color-0 {
+  background: #00a60b;
+}
+.timeline-centered
+  .timeline-entry
+  .timeline-entry-inner
+  .timeline-icon.color-1 {
+  background: #2c98f0;
+}
+.timeline-centered
+  .timeline-entry
+  .timeline-entry-inner
   .timeline-icon.color-2 {
   background: #ec5453;
 }

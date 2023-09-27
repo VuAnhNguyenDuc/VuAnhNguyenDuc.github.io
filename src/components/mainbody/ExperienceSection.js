@@ -3,6 +3,10 @@ import data from "../../data.json";
 
 const workExperience = data.work_experience;
 
+function getRandomInteger(min, max) {
+  return Math.floor(Math.random())
+}
+
 export default class ExperienceSection extends Component {
   render() {
     return (
@@ -29,7 +33,7 @@ export default class ExperienceSection extends Component {
                     key={index}
                   >
                     <div className="timeline-entry-inner">
-                      <div className={`timeline-icon color-${index + 1}`}>
+                      <div className={`timeline-icon color-${index%5}`}>
                         <i className={item.icon} />
                       </div>
 
