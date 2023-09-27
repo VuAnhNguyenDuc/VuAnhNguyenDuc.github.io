@@ -107,6 +107,7 @@ figure figcaption {
   position: fixed;
   overflow-y: scroll;
   z-index: 1001;
+  height: 150%;
   background: #f2f3f7;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
