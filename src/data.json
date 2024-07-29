@@ -142,6 +142,12 @@
         "key": "IELTS 7.5",
         "path": "https://drive.google.com/file/d/1MWQzTOkYArg7HU6yQOKe7IvvyTveabSo/view?usp=sharing",
         "value": "<a href='https://www.ielts.org/' target='_blank' rel='noopener noreferrer'>IELTS</a> is the high stakes English test for international study, migration and work."
+      },
+      {
+        "order": "Eight",
+        "key": "PTE 90",
+        "path": "https://drive.google.com/file/d/132ET_qRU0hfVKhKNaQvjpYxVrwvdm4fx/view?usp=sharing",
+        "value": "<a href='https://www.pearsonpte.com/' target='_blank' rel='noopener noreferrer'>Pearson Test of English Academics (PTE Academics)</a> is an international computer-based English language test. It provides a measure of test takers’ language ability to education institutions, and professional and government organizations that require a standard of academic English for admission purposes."
       }
     ]
   },
