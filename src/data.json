@@ -1,12 +1,12 @@
 {
   "name": "Nguyen Duc Vu Anh",
-  "position": "Software Engineer at <a href='https://www.equinix.sg/'>Equinix Singapore</a>",
+  "position": "Senior Software Engineer at <a href='https://www.endava.com/'>Endava Vietnam</a>",
   "download_file": "https://drive.google.com/file/d/1cWcfB7aE9PuDvOwZnqvo5EFs1UIpFuLG/view?usp=sharing",
   "carousel": {
     "items": [
       {
         "title": "Hi! I'm Vu Anh!",
-        "image": "https://res.cloudinary.com/he9vfmd3s/image/upload/v1694239290/vuanh-portfolio/img_bg_4.jpg",
+        "image": "https://res.cloudinary.com/anhnguyen2412/image/upload/v1740332973/Portfolio/avatar_background_daxmg5.jpg",
         "color": "black",
         "content": "A passionate, talented software engineer."
       }
@@ -14,9 +14,9 @@
   },
   "about": {
     "title": "ABOUT ME",
-    "image": "https://res.cloudinary.com/he9vfmd3s/image/upload/v1694238689/vuanh-portfolio/navbar_avatar.jpg",
+    "image": "https://res.cloudinary.com/anhnguyen2412/image/upload/v1740332202/Portfolio/avartar_nabvar_arw9pq.jpg",
     "subtitle": "WHO AM I?",
-    "content": "<p><strong>Hey there! My name is Nguyen Duc Vu Anh</strong>, a software engineer currently working at <a href='https://www.equinix.sg/' target='_blank' rel='noopener noreferrer'>Equinix Singapore</a>. I've always been drawn to the excitement of solving complex problems and awesome coding projects. My skills are broad: from front-end design to back-end development. I enjoy each aspect, and love building websites & mobile apps from start to finish, for clients all over the world.</p><p>I'm available for remote and freelancing work - if you would like to build something together, <a href='#contact-section'>get in touch</a>?</p>",
+    "content": "<p><strong>Hey there! My name is Nguyen Duc Vu Anh</strong>, a senior software engineer currently working at <a href='https://www.endava.com/' target='_blank' rel='noopener noreferrer'>Endava Vietnam</a>. I've always been drawn to the excitement of solving complex problems and awesome coding projects. My skills are broad: from front-end design to back-end development. I enjoy each aspect, and love building websites & mobile apps from start to finish, for clients all over the world.</p><p>I'm available for remote and freelancing work - if you would like to build something together, <a href='#contact-section'>get in touch</a>?</p>",
     "specialties": [
       {
         "title": "Front-end",
@@ -58,11 +58,11 @@
     ]
   },
   "counter": {
-    "background": "https://res.cloudinary.com/he9vfmd3s/image/upload/v1650336143/vuanh-portfolio/cover_bg_1.jpg",
+    "background": "https://res.cloudinary.com/anhnguyen2412/image/upload/v1740331425/Portfolio/cover_bg_1_uxrpfs.jpg",
     "items": [
       {
         "title": "Years of Exp",
-        "value": 6
+        "value": 8
       },
       {
         "title": "Projects",
@@ -74,7 +74,7 @@
       },
       {
         "title": "Companies",
-        "value": 5
+        "value": 6
       }
     ]
   },
@@ -84,16 +84,15 @@
     "content": "I have been working on various technologies, including back-end and front-end development, but I primarily work with Java and JavaScript. The following bar chart illustrates my years of experience.",
     "labels": [
       "Java Spring Boot",
-      "ReactJS",
       "Database (PostgreSQL)",
       "AWS"
     ],
     "datasets": [
       {
         "label": "Years of experience",
-        "data": [6, 2, 6, 3],
-        "backgroundColor": ["#FF6384", "#36A2EB", "#FFCE56", "#46BFBD"],
-        "hoverBackgroundColor": ["#FF6384", "#36A2EB", "#FFCE56", "#46BFBD"]
+        "data": [8, 8, 3],
+        "backgroundColor": ["#FF6384", "#FFCE56", "#46BFBD"],
+        "hoverBackgroundColor": ["#FF6384", "#FFCE56", "#46BFBD"]
       }
     ]
   },
@@ -199,10 +198,17 @@
       },
       {
         "title": "Senior Associate Engineer at <a href='https://www.equinix.sg/' target='_blank' rel='noopener noreferrer'>Equinix Singapore</a>",
-        "period": "August 2023 - Present",
+        "period": "August 2023 - December 2024",
         "fade_in": "fadeInLeft",
         "icon": "icon-pen2",
         "content": "After getting converted, I continue working for Equinix as a full time employee."
+      },
+      {
+        "title": "Senior Software Engineer at <a href='https://www.endava.com/' target='_blank' rel='noopener noreferrer'>Endava Vietnam</a>",
+        "period": "January 2025 - Present",
+        "fade_in": "fadeInLeft",
+        "icon": "icon-pen2",
+        "content": "After three years of living and working in Singapore, I've decided to return back to Vietnam and continued working as a Senior Engineer for Endava"
       }
     ]
   },
@@ -225,7 +231,7 @@
         ],
         "technologies": ["JavaEE", "Hibernate", "Maven"],
         "fade_in": "fadeInLeft",
-        "image": "https://res.cloudinary.com/he9vfmd3s/image/upload/v1650336149/vuanh-portfolio/smartedunow.png"
+        "image": "https://res.cloudinary.com/anhnguyen2412/image/upload/v1740331426/Portfolio/smartedunow_oztd1a.png"
       },
       {
         "title": "Qatar Tourism",
@@ -242,7 +248,7 @@
         ],
         "technologies": ["Adobe Experience Manager", "MySQL"],
         "fade_in": "fadeInLeft",
-        "image": "https://res.cloudinary.com/he9vfmd3s/image/upload/v1650336138/vuanh-portfolio/qatartourism.png"
+        "image": "https://res.cloudinary.com/anhnguyen2412/image/upload/v1740331430/Portfolio/qatartourism_soy3rk.png"
       },
       {
         "title": "Fonterra - Edetailing",
@@ -264,7 +270,7 @@
           "MySQL"
         ],
         "fade_in": "fadeInRight",
-        "image": "https://res.cloudinary.com/he9vfmd3s/image/upload/v1650336139/vuanh-portfolio/fonterra.jpg"
+        "image": "https://res.cloudinary.com/anhnguyen2412/image/upload/v1740331425/Portfolio/edetailing_qdxqkv.png"
       },
       {
         "title": "Lexis Nexis Insurance - Telematrics",
@@ -286,7 +292,7 @@
           "MySQL"
         ],
         "fade_in": "fadeInRight",
-        "image": "https://res.cloudinary.com/he9vfmd3s/image/upload/v1650336136/vuanh-portfolio/telematrics.jpg"
+        "image": "https://res.cloudinary.com/anhnguyen2412/image/upload/v1740331426/Portfolio/telematrics_opeaxf.jpg"
       },
       {
         "title": "NAB - Personal Cards",
@@ -308,11 +314,11 @@
           "MySQL"
         ],
         "fade_in": "fadeInRight",
-        "image": "https://res.cloudinary.com/he9vfmd3s/image/upload/v1650336135/vuanh-portfolio/nab.png"
+        "image": "https://res.cloudinary.com/anhnguyen2412/image/upload/v1740331426/Portfolio/nab_ds1zvx.png"
       },
       {
         "title": "Equinix - Customer Resource Hierarchy",
-        "duration": "05/2022 - Present",
+        "duration": "05/2022 - 12/2024",
         "description": "Back-end system that serves as a portal for customers to manage their resources.",
         "website": "",
         "team_size": 15,
@@ -331,7 +337,7 @@
           "Rabbit MQ"
         ],
         "fade_in": "fadeInRight",
-        "image": "https://res.cloudinary.com/he9vfmd3s/image/upload/v1652459654/vuanh-portfolio/equinix.png"
+        "image": "https://res.cloudinary.com/anhnguyen2412/image/upload/v1740332820/Portfolio/equinix_cmiswe.jpg"
       }
     ]
   },
