@@ -84,15 +84,16 @@
     "content": "I have been working on various technologies, including back-end and front-end development, but I primarily work with Java and JavaScript. The following bar chart illustrates my years of experience.",
     "labels": [
       "Java Spring Boot",
+      "Kafka/RabbitMQ/SQS",
       "Database (PostgreSQL)",
       "AWS"
     ],
     "datasets": [
       {
         "label": "Years of experience",
-        "data": [8, 8, 3],
-        "backgroundColor": ["#FF6384", "#FFCE56", "#46BFBD"],
-        "hoverBackgroundColor": ["#FF6384", "#FFCE56", "#46BFBD"]
+        "data": [8, 8, 8, 3],
+        "backgroundColor": ["#FF6384", "#36A2EB", "#FFCE56", "#46BFBD"],
+        "hoverBackgroundColor": ["#FF6384", "#36A2EB", "#FFCE56", "#46BFBD"]
       }
     ]
   },
